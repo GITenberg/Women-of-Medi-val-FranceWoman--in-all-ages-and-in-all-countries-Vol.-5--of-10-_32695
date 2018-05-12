@@ -1,0 +1,31 @@
+_repo: Women-of-Medi-val-FranceWoman--in-all-ages-and-in-all-countries-Vol.-5--of-10-_32695
+_version: 0.1.0
+alternative_title: Women of Mediaeval France
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Pierce
+    birthdate: 1873
+    deathdate: 1955
+    gutenberg_agent_id: '35989'
+    url: http://www.gutenberg.org/2009/agents/35989
+description: ''
+gutenberg_issued: '2010-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Women -- France -- History -- Middle Ages, 500-1500'
+- !lcc 'HQ'
+- !lcsh 'Biography -- Middle Ages, 500-1500'
+title: 'Women of Mediæval France
+
+  Woman: in all ages and in all countries Vol. 5 (of 10)'
+url: http://www.gutenberg.org/ebooks/32695
