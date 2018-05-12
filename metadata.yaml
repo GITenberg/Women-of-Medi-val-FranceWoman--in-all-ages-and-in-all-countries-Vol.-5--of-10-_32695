@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35989'
     url: http://www.gutenberg.org/2009/agents/35989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32695#Women-of-Medi-val-FranceWoman--in-all-ages-and-in-all-countries-Vol.-5--of-10-
 gutenberg_issued: '2010-06-05'
 gutenberg_type: Text
 identifiers:
